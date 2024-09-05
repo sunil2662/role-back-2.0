@@ -1,3 +1,3 @@
 print("hi this is sunil")
-print("from hyd")
-print("hi")
+print("am from hyd")
+print("hello")
